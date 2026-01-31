@@ -1,0 +1,32 @@
+Doc:
+    https://electronstudio.github.io/raylib-python-cffi/
+
+Site:
+    https://www.raylib.com/
+
+Git:
+    https://github.com/raysan5/raylib
+
+Python Bind Git:
+    pass
+
+Examples:
+    https://github.com/electronstudio/raylib-python-cffi/tree/master/examples
+
+    gui:
+        https://github.com/electronstudio/raylib-python-cffi/tree/master/examples/raygui
+
+    shaders:
+        https://github.com/electronstudio/raylib-python-cffi/tree/master/examples/shaders
+
+    shapes:
+        https://github.com/electronstudio/raylib-python-cffi/tree/master/examples/shapes
+
+    textures:
+        https://github.com/electronstudio/raylib-python-cffi/tree/master/examples/textures
+
+    window flags:
+        https://github.com/electronstudio/raylib-python-cffi/blob/master/examples/core/core_window_flags.py
+
+    window close message:
+        https://github.com/electronstudio/raylib-python-cffi/blob/master/examples/core/core_window_should_close.py
